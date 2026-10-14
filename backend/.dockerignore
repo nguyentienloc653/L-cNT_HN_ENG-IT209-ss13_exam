@@ -1,0 +1,11 @@
+.gradle/
+build/
+!build/libs/*.jar
+.git/
+.gitignore
+.idea/
+*.iml
+.vscode/
+bin/
+out/
+*.log
